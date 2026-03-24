@@ -1,4 +1,3 @@
-````markdown
 # Booking Engine System
 
 A production-grade backend reservation engine for managing property availability, date-based bookings, and conflict-free reservations.
